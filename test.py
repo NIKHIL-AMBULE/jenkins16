@@ -1,1 +1,1 @@
-print(" Update test on test.py file is ok ")
+print(" automation test local to git , git to jenkins ")
